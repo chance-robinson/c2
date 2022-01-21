@@ -5,13 +5,16 @@
   }
   
   .menu-container {
-    color: #fff;
-    background-color: #5995DA;  /* Blue */
+    color: rgb(153, 76, 76);
+    background-color: #a7b5c5;  /* Blue */
     padding: 20px 0;
     display: flex;
+    justify-content: center;
   }
   
   .menu {
-    border: 1px solid #fff;  /* For debugging */
+    border: 3px solid rgb(167, 36, 36);  /* For debugging */
     width: 900px;
+    display: flex;
+    justify-content: space-around;
   }
