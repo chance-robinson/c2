@@ -5,7 +5,7 @@
   }
   
   .menu-container {
-    color: rgb(153, 76, 76);
+    color: rgb(216, 39, 39);
     background-color: #a7b5c5;  /* Blue */
     padding: 20px 0;
     display: flex;
@@ -13,7 +13,7 @@
   }
   
   .menu {
-    border: 3px solid rgb(167, 36, 36);  /* For debugging */
+    border: 3px solid rgb(201, 185, 185);  /* For debugging */
     width: 900px;
     display: flex;
     justify-content: space-around;
